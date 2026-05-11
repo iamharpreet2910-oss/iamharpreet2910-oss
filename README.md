@@ -38,4 +38,5 @@ I don't just write scripts; I build end-to-end architectures. Here is the curren
 I take on custom freelance bounties for tech founders, creators, and agencies. 
 If you need a custom API integration, a complex web scraper, or a media pipeline automated—let's talk.
 
-📫 **Drop a payload:** [Insert your Email or Discord username here]
+📫 **Drop a payload:** [iamharpreet2910@gmail.com
+]
